@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!--[![Urbain Editor Screen Shot][product-screenshot]](https://i.imgur.com/i5T0kK3.png)-->
+[![Calculator Screen Shot][product-screenshot]](images/cal.png)
 
 <!-- Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `project_description` -->
 
