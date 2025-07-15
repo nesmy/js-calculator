@@ -137,3 +137,24 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Astro build output
+/dist
+/build
+
+# Local development
+/.astro
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode
+
+# Mac/Linux swap files
+*~
+*.swp
+
+# Windows
+ehthumbs.db
