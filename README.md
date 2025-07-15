@@ -83,7 +83,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Calculator Screen Shot][product-screenshot]](images/cal.png)
+<!--[![Calculator Screen Shot][product-screenshot]](images/cal.png)-->
+<div align="center">
+    <img src="images/cal.png" alt="Logo" width="200" height="220">
+</div>
 
 <!-- Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `project_description` -->
 
@@ -94,7 +97,7 @@
 ### Built With
 
 <!--* [![C++][C++]][C++-url]-->
-* [![Built with Astro](https://astro.badg.es/v2/built-with-astro/medium.svg)](https://astro.build)
+ [![Built with Astro](https://astro.badg.es/v2/built-with-astro/medium.svg)](https://astro.build)
 <!-- * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
